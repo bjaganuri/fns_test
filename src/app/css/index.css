@@ -1,0 +1,17 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.errors > span {
+	display: block;
+	color: red;
+}
+
+.react-route-link {
+	color: #fff !important;
+}
+
+hr {
+	border: 1px solid gray;
+}
